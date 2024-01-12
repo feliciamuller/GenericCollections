@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Labb_8_OOP_GenericCollections
+namespace GenericCollections
 {
     public class Employee
     {

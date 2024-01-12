@@ -4,7 +4,7 @@ using System.ComponentModel.Design;
 using System.IO.Pipes;
 using System.Security.Cryptography.X509Certificates;
 
-namespace Labb_8_OOP_GenericCollections
+namespace GenericCollections
 {
     public class Program
     {
